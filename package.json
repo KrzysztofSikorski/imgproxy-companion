@@ -1,0 +1,19 @@
+{
+  "name": "imgproxy-companion",
+  "version": "1.0.3",
+  "description": "",
+  "main": "cdnscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrzysztofSikorski/imgproxy-companion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrzysztofSikorski/imgproxy-companion/issues"
+  },
+  "homepage": "https://github.com/KrzysztofSikorski/imgproxy-companion#readme"
+}

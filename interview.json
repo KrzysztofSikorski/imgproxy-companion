@@ -1,0 +1,408 @@
+{
+  "sex": "female",
+  "age": 30,
+  "evidence": [
+    {
+      "id": "p_15",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_505",
+      "choice_id": "present",
+      "initial": true
+    },
+    {
+      "id": "s_215",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_531",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_532",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_285",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_112",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1429",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_216",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_20",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_98",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_100",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_1367",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_107",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_252",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_331",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_1812",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_715",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_136",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1471",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_509",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_1095",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_276",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1094",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1096",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1303",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1142",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_102",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_103",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_105",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_104",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_81",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_1190",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_21",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_1781",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_1349",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_1912",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_2191",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_1905",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_156",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_305",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_8",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_650",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_25",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_604",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_23",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_284",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_2100",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_261",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_612",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_370",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1304",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_13",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_19",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_220",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_88",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_492",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_44",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_227",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_68",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_478",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_47",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1102",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_799",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_1762",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_625",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1985",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_1924",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_474",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_50",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_116",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_962",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_122",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_610",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1961",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_217",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1733",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_542",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_664",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1543",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_241",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_65",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_488",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_2034",
+      "choice_id": "present"
+    },
+    {
+      "id": "s_418",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_145",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_315",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_2072",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_2073",
+      "choice_id": "present"
+    },
+    {
+      "id": "p_28",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_437",
+      "choice_id": "absent"
+    },
+    {
+      "id": "p_8",
+      "choice_id": "absent"
+    },
+    {
+      "id": "p_167",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_9",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_551",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1296",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1483",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1955",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_1605",
+      "choice_id": "absent"
+    },
+    {
+      "id": "s_207",
+      "choice_id": "absent"
+    }
+  ],
+  "evaluated_at": "2020-05-08T09:38:58.412Z"
+}
